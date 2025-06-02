@@ -2,7 +2,7 @@
 
 This project analyzes solar radiation data from multiple stations to understand patterns and trends in solar energy potential across different locations.
 ## Screenshot
-!["graph"]("/pr_graph.png")
+![graph](./pr_graph.png)
 
 ## Project Structure
 
